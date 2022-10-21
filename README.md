@@ -1,17 +1,13 @@
 <div align="center">
     <img src="https://wallpapercave.com/dwp1x/wp2001960.jpg"><br>
-    source:Wallpapercave.com
+    source: Wallpapercave.com
 </div>
-
-<style>
-blue { color: blue }
-</style>
 
 -----------------
 
-"# Yugioh-public-api-data-enrichment" 
+# Yugioh-public-api-data-enrichment
 
-"## Introduction"
+## Introduction
 
 This respitory was created with the aim of completing an assignment in a Bootcamp with the material title <blue> **Collaboration With Git** </blue>.
 
@@ -19,7 +15,7 @@ The initial data contained are the names of 10 yugioh cards, the data can be see
 To add other data based on the data provided, the data will be merged using external data obtained using <blue> **API** </blue> from:
  https://ygoprodeck.com/api-guide/.
 
-"## Tools & Method"
+## Tools & Method
 
 The work will be done using a jupyter notebook with python language where the main libraries used are:
 1. numpy is used for working with arrays
