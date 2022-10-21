@@ -5,7 +5,8 @@
 
 -----------------
 
-# Yugioh-public-api-data-enrichment
+# Yugioh Public Api Data Enrichment
+> "It's time to duel" - Yugi Mutou
 
 ## Introduction
 
@@ -17,10 +18,10 @@ To add other data based on the data provided, the data will be merged using exte
 
 ## Tools & Method
 
-The work will be done using a jupyter notebook with python language where the main libraries used are:
-1. numpy is used for working with arrays
-2. pandas is used for working with dataframes
-3. request allows to send HTTP requests using Python.
-4. json The full-form of JSON is JavaScript Object Notation.
+The assigment will be done using a jupyter notebook with python language where the main libraries used are:
+1. **numpy** is used for working with arrays
+2. **pandas** is used for working with dataframes
+3. **request** allows to send HTTP requests using Python.
+4. **json** The full-form of JSON is JavaScript Object Notation.
 
 While the git language is used to interact with github.
