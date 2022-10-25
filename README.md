@@ -29,7 +29,7 @@ While the git language is used to interact with github.
 ## Data Definition
 
 The initial data consist of 10 rows with one attribute which are name attribute<br>
-* name - name of the card<br>
+* name - Name of the card<br>
 
 While the external data consist of several attributes<br>
 * id - ID or Passcode of the card<br>
